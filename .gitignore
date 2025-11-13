@@ -9,5 +9,8 @@ wheels/
 # Virtual environments
 .venv
 
-sample-agent
 .env
+
+*agent/
+
+**/*logger.log
